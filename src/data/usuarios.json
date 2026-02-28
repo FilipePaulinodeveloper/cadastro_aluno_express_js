@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "Luiza Silva",
+    "email": "luiza.aluna@email.com",
+    "data_nascimento": "2010-05-15",
+    "curso": "Psicologia",
+    "matricula": "2024001",
+    "id": "b04c7bb6-4723-4e0d-8a42-d7aa33cdc1c0"
+  },
+  {
+    "nome": "Teste atualizado",
+    "email": "luiza.aluna2@email.com",
+    "data_nascimento": "2010-05-15",
+    "curso": "Psicologia",
+    "matricula": "2024001",
+    "id": "d868fc2b-4b08-4bb0-9b8c-3475e31695c8"
+  }
+]
