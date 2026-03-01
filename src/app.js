@@ -1,11 +1,11 @@
 import express from 'express';
-import usuarioRoutes from './routes/usuarioRoutes.js';
+import alunoRoutes from './routes/alunoRoutes.js';
 
 const app = express();
 const PORT = 3000;
 
 app.use(express.json());
-app.use('/usuarios', usuarioRoutes);
+app.use('/alunos', alunoRoutes);
 
 app.get('/', (req, res) => {
   res.send('API funcionando com ES Modules!');
